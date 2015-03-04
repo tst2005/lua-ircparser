@@ -1,3 +1,8 @@
+--[[--------------------------------------------------------------------------
+	-- IRC parser - A IRC protocol parser in Lua --
+	-- Copyright (c) 2014-2015 TsT worldmaster.fr <tst2005@gmail.com> --
+--]]--------------------------------------------------------------------------
+
 local assert = assert
 
 local _M = {} -- the module
